@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "56452391545",
+    "firebase_url": "https://contadorpersonalizado.firebaseio.com",
+    "project_id": "contadorpersonalizado",
+    "storage_bucket": "contadorpersonalizado.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56452391545:android:0b884b3c0f404651",
+        "android_client_info": {
+          "package_name": "com.example.pc_seven.contadorpersonalizado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56452391545-q9udodptbnnms6unb3s4hk2kie5u6067.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pc_seven.contadorpersonalizado",
+            "certificate_hash": "9c40e63fa335151b0cdcd8a6b9abd2656e99a671"
+          }
+        },
+        {
+          "client_id": "56452391545-9l7pkrlbb4ts0sr448rv3fqgg1mi7l0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwKshRyJjJDXKoXARiJ2Cr94ZliQ_kkko"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56452391545-9l7pkrlbb4ts0sr448rv3fqgg1mi7l0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
